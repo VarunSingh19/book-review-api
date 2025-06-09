@@ -41,7 +41,7 @@ A RESTful API for managing books and reviews—built with Node.js, Express, Mong
 
 ### 📚 Book Review API Working
 
-![📚 Book Review API Screenshot](assets/image.png)
+![📚 Book Review API Screenshot](assests/image.png)
 
 ---
 
