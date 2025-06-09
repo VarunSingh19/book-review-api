@@ -37,12 +37,20 @@ A RESTful API for managing books and reviews—built with Node.js, Express, Mong
 
 ---
 
+## 📸 Screenshots
+
+### 📚 Book Review API
+
+![📚 Book Review API Screenshot](./assets/image.png)
+
+---
+
 ## 🔧 Getting Started
 
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/yourusername/book-review-api.git
+git clone https://github.com/VarunSingh19/book-review-api.git
 cd book-review-api
 npm install
 ```
